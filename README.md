@@ -25,7 +25,7 @@ Some of essential mods in pack are e.g.:
 - Funky Locomotion (by RWTema)
 - Gravestone mod - Graves (by NightKosh)
 - Hammer Core (by apengu_)
-- mmersive Engineering (by BluSunrize)
+- Immersive Engineering (by BluSunrize)
 - Immersive Petroleum (by theFlaxbeard)
 - Industrial Foregoing (by Buuz135)
 - Inventory Tweaks (by Kobata)
